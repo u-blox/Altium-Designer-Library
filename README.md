@@ -24,7 +24,7 @@ Contribution provided to us for any purpose without fee.
 
 This library contains the symbols and footprints for Altium Designer. 
 The following symbols/footprints are available in the library:
-* POS:   
+* POS:   MAX-M8
 * CEL:   LEON, LISA, SARA, TOBY
 * SHO:   ELLA-W1, ODIN-W26, ODIN-W16, EMMY-W1, LILY-W1, NINA-B1, THEO-P173-01A
 * other: u-blox Logo
