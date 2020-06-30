@@ -2,7 +2,7 @@
 Symbols and Footprints for Altium Designer
 --------------------------------------------------------------------------------
 
-Copyright (C) u-blox 
+Copyright © u-blox 
 
 u-blox reserves all rights in this deliverable (documentation, software, etc., 
 hereafter “Deliverable”). 
@@ -24,8 +24,8 @@ Contribution provided to us for any purpose without fee.
 
 This library contains the symbols and footprints for Altium Designer. 
 The following symbols/footprints are available in the library:
-* POS:   MAX-M8, NEO-M8, LEA-M8, EVA-M8,PAM, CAM-M8, ZOE-M8G, SAM-M8
+* POS:   CAM-M8, EVA-M8, LEA-M8, MAX-M8, NEO-M8, PAM, SAM-M8, ZOE-M8G
 * CEL:   LEON, LISA, SARA, TOBY
-* SHO:   ELLA-W1, ODIN-W26, ODIN-W16, EMMY-W1, LILY-W1, NINA-B1, THEO-P173-01A, JODY-W1
+* SHO:   ANNA-B1, BMD-3, ELLA-W1, EMMY-W1, JODY-W1, LILY-W1, NINA-B1, NINA-B2, 
+         NINA-B3, NINA-B4, ODIN-W16, ODIN-W26, R41Z, THEO-P173-01A
 * other: u-blox Logo
-
