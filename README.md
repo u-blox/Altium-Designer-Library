@@ -30,3 +30,9 @@ The following symbols/footprints are available in the library:
 		 NINA-B2, NINA-B3, NINA-B4, NINA-W1, NORA-B1, ODIN-W16, ODIN-W26, 
 		 R41Z, THEO-P173-01A
 * other: u-blox Logo
+
+# New updates
+
+2020-10-22
+* NINA-Bx06 - changed antenna keep-out to multi-layer polygon cutout
+* NORA-B10x - corrected solder mask void, added pin 1 markers on silk screen
