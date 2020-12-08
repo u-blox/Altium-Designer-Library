@@ -33,6 +33,9 @@ The following symbols/footprints are available in the library:
 
 # New updates
 
+2020-12-08
+* NINA-W156 - corrected footprint selection
+
 2020-10-22
 * NINA-Bx06 - changed antenna keep-out to multi-layer polygon cutout
 * NORA-B10x - corrected solder mask void, added pin 1 markers on silk screen
