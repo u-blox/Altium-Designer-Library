@@ -33,6 +33,11 @@ The following symbols/footprints are available in the library:
 
 # New updates
 
+2021-01-04 - brec
+* NINA-B4x1 - added
+* NINA-B31x - corrected naming of reserved pins 11, 15
+* NINA-B41x - corrected naming of reserved pins 11, 15
+
 2020-12-08
 * NINA-W156 - corrected footprint selection
 
