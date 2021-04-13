@@ -33,6 +33,9 @@ The following symbols/footprints are available in the library:
 
 # New updates
 
+2021-04-13 - brec
+* NORA-B10x - correctly embedded u-blox logo graphic into symbols
+
 2021-01-04 - brec
 * NINA-B4x1 - added
 * NINA-B31x - corrected naming of reserved pins 11, 15
