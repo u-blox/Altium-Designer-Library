@@ -32,6 +32,8 @@ The following symbols/footprints are available in the library:
 * other: u-blox Logo
 
 # New updates
+2021-10-28 - brec
+* BMD-345 - removed keep-out under U.FL area
 
 2021-10-05 - psca
 * ALEX-R5 - added symbol and footprint
