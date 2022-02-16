@@ -33,6 +33,7 @@ The following symbols/footprints are available in the library:
 
 # New updates
 2022-02-16 - brec
+* NORA-B1 - added NORA-B120, NORA-B121, NORA-B126
 * ANNA-B4 - added (open CPU and u-connectXpress)
 * ANNA-B1 - corrected pin type to IO for GPIO_31 and GPIO_38
 
