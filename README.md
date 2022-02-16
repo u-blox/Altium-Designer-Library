@@ -24,14 +24,21 @@ Contribution provided to us for any purpose without fee.
 
 This library contains the symbols and footprints for Altium Designer. 
 The following symbols/footprints are available in the library:
-* POS:   CAM-M8, EVA-M8, LEA-M8, MAX-M8, NEO-M8, PAM, SAM-M8, ZOE-M8G
+* POS:   CAM-M8, EVA-M8, LEA-M8, MAX-M8, NEO-M8, PAM, SAM-M8, ZOE-M8G, ZED-F9P
 * CEL:   LEON, LISA, SARA, TOBY, ALEX-R5
-* SHO:   ANNA-B1, BMD-3, ELLA-W1, EMMY-W1, JODY-W1, LILY-W1, NINA-B1, 
+* SHO:   ANNA-B1, ANNA-B4, BMD-3, ELLA-W1, EMMY-W1, JODY-W1, LILY-W1, NINA-B1, 
 		 NINA-B2, NINA-B3, NINA-B4, NINA-W1, NORA-B1, ODIN-W16, ODIN-W26, 
 		 R41Z, THEO-P173-01A
 * other: u-blox Logo
 
 # New updates
+2022-02-16 - brec
+* ANNA-B4 - added (open CPU and u-connectXpress)
+* ANNA-B1 - corrected pin type to IO for GPIO_31 and GPIO_38
+
+2021-11-29 - brec
+* ZED-F9P - added
+
 2021-10-28 - brec
 * BMD-345 - removed keep-out under U.FL area
 
