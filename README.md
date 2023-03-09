@@ -32,6 +32,12 @@ The following symbols/footprints are available in the library:
 * other: u-blox Logo
 
 # New updates
+2023-03-08 - brec
+* NORA-B10 - updated symbol
+* NORA-B12 - added
+* NORA-W10 - added
+* NORA-W25 - added
+
 2022-08-29 - brec
 * ANNA-B4 - restored accidental deletion - no change to symbol or footprint from 2022-02-16
 
