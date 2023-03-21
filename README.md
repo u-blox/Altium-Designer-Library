@@ -27,11 +27,18 @@ The following symbols/footprints are available in the library:
 * POS:   CAM-M8, EVA-M8, LEA-M8, MAX-M8, NEO-M8, PAM, SAM-M8, ZOE-M8G, ZED-F9P
 * CEL:   LEON, LISA, SARA, TOBY, ALEX-R5
 * SHO:   ANNA-B1, ANNA-B4, BMD-3, ELLA-W1, EMMY-W1, JODY-W1, LILY-W1, NINA-B1, 
-		 NINA-B2, NINA-B3, NINA-B4, NINA-W1, NORA-B1, ODIN-W16, ODIN-W26, 
-		 R41Z, THEO-P173-01A
+		 NINA-B2, NINA-B3, NINA-B4, NINA-W1, NORA-B1, NORA-W1, NORA-W2, NORA-W3, 
+		 ODIN-W16, ODIN-W26, R41Z, THEO-P173-01A
 * other: u-blox Logo
 
 # New updates
+# Revision history
+2023-03-23 - brec
+* NORA-B1 - updated to generic 2-part symbol for all NORA family (kept old as "_orig")
+* NORA-W1 - updated to generic 2-part symbol for all NORA family
+* NORA-W2 - updated to generic 2-part symbol for all NORA family
+* NORA-W3 - added
+
 2023-03-08 - brec
 * NORA-B10 - updated symbol
 * NORA-B12 - added
