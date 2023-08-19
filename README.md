@@ -33,6 +33,9 @@ The following symbols/footprints are available in the library:
 
 # New updates
 # Revision history
+2023-08-18 - brec
+* NORA-B1 - separated NORA-B10 and NORA-B12 due to shield height differences. NORA-B12 now slightly higher
+
 2023-03-23 - brec
 * NORA-B1 - updated to generic 2-part symbol for all NORA family (kept old as "_orig")
 * NORA-W1 - updated to generic 2-part symbol for all NORA family
