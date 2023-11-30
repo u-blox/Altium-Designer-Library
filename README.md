@@ -34,6 +34,9 @@ The following symbols/footprints are available in the library:
 # New updates
 # Revision history
 
+2023-11-30 - lkis
+* IRIS-W1 - added IRIS-W101 and IRIS-W106
+
 2023-10-09 - psca
 * LENA-R8 - added
 
