@@ -35,6 +35,9 @@ The following symbols/footprints are available in the library:
 # New updates
 # Revision history
 
+2024-02-27 - lkis
+IRIS-W101, IRIS-W106, NINA-B501, NINA-B506, MAYA-W2 - Symbols and footprints corrected
+
 2024-02-16 - psca
 * LEXI-R422 - added
 
