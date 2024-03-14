@@ -27,13 +27,16 @@ The following symbols/footprints are available in the library:
 * POS:   CAM-M8, EVA-M8, LEA-M8, MAX-M8, NEO-M8, PAM, SAM-M8, ZOE-M8G, ZED-F9P
 * CEL:   LEXI-R422, SARA-R41x, SARA-R42x, SARA-R5, SARA-R52, SARA-G450, SARA-U2,
              LARA-R6, LENA-R8, TOBY, LEON, LISA
-* SHO:   ANNA-B1, ANNA-B4, BMD-3, ELLA-W1, EMMY-W1, IRIS-W1, JODY-W1, LILY-W1, MAYA-W2, NINA-B1, 
+* SHO:   ANNA-B1, ANNA-B4, BMD-3, ELLA-W1, EMMY-W1, IRIS-W1, JODY-W1, JODY-W2, JODY-W3, JODY-W6, LILY-W1, MAYA-W2, NINA-B1, 
 		 NINA-B2, NINA-B3, NINA-B4, NINA-B5, NINA-W1, NORA-B1, NORA-W1, NORA-W2, 
 		 NORA-W3, ODIN-W16, ODIN-W26, R41Z, THEO-P173-01A
 * other: u-blox Logo
 
 # New updates
 # Revision history
+2024-03-14 - lber
+* JODY-W3 - Symbol corrected
+* JODY-W6 - Added
 
 2024-02-27 - lkis
 * IRIS-W101, IRIS-W106, NINA-B501, NINA-B506, MAYA-W2 - Symbols and footprints corrected
