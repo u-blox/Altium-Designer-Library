@@ -37,6 +37,10 @@ The following symbols/footprints are available in the library:
 # New updates
 # Revision history
 
+2024-06-28 - brec
+* NORA-W(all) - corrected underscore to hyphen in part names
+* NORA-W3 - added alternate symbols to match NORA-B1 original style
+
 2024-06-12 - lkis
 * IRIS-W101, IRIS-W106, NINA-B501, NINA-B506, MAYA-W2, JODY-W3, JODY-W5 - restored symbol and footprint
 
