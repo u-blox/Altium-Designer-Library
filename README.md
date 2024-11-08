@@ -37,6 +37,9 @@ The following symbols/footprints are available in the library:
 # New updates
 # Revision history
 
+2024-11-08 - psca
+ * LEXI - Add missing N6 pin (GND) to component symbols
+
 2024-06-28 - brec
 * NORA-W(all) - corrected underscore to hyphen in part names
 * NORA-W3 - added alternate symbols to match NORA-B1 original style
