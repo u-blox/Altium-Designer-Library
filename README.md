@@ -29,7 +29,7 @@ The following symbols/footprints are available in the library:
 * CEL:   LEXI-R422, LEXI-R520, LEXI-R10x01D, SARA-R41x, SARA-R42x, SARA-R5,
       	 SARA-R52, SARA-G450, SARA-U2, LARA-R6, LENA-R8, TOBY, LEON, LISA
 * SHO:   ANNA-B1, ANNA-B4, BMD-3, ELLA-W1, EMMY-W1, IRIS-W1, JODY-W1, JODY-W2,
- 	       JODY-W3, JODY-W5, LILY-W1, MAYA-W1, MAYA-W2, NINA-B1, NINA-B2, NINA-B3,
+ 	       JODY-W3, JODY-W5, LILY-W1, MAYA-W1, MAYA-W2, MAYA-W4, NINA-B1, NINA-B2, NINA-B3,
 		 NINA-B4, NINA-B5, NINA-W1, NORA-B1, NORA-W1, NORA-W2, NORA-W3,
 		 ODIN-W16, ODIN-W26, R41Z, THEO-P173-01A
 * other: u-blox Logo
@@ -37,8 +37,11 @@ The following symbols/footprints are available in the library:
 # New updates
 # Revision history
 
+2024-12-16 - lber
+* MAYA-W4 added
+
 2024-11-08 - psca
- * LEXI - Add missing N6 pin (GND) to component symbols
+* LEXI - Add missing N6 pin (GND) to component symbols
 
 2024-06-28 - brec
 * NORA-W(all) - corrected underscore to hyphen in part names
