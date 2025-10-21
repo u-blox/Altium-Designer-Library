@@ -31,11 +31,11 @@ The following symbols/footprints are available in the library:
 * SHO:   ANNA-B1, ANNA-B4, BMD-3, ELLA-W1, EMMY-W1, IRIS-W1, JODY-W1, JODY-W2,
  	       JODY-W3, JODY-W5, LILY-W1, MAYA-W1, MAYA-W2, MAYA-W4, NINA-B1, NINA-B2, NINA-B3,
 		 NINA-B4, NINA-B5, NINA-W1, NORA-B1, NORA-B2, NORA-W1, NORA-W2, NORA-W3,
-		 NORA-W4, ODIN-W16, ODIN-W26, R41Z, THEO-P173-01A
+		 NORA-W4, ODIN-W16, ODIN-W26, R41Z, RUBY-W1, THEO-P173-01A
 * other: u-blox Logo
 
 # New updates
-NORA-W401/W406 footprint and symbol added.
+RUBY-W1 footprint and symbol added.
 # Revision history
 2025-10-21 - lber
 * RUBY-W1 - added
@@ -136,4 +136,5 @@ NORA-W401/W406 footprint and symbol added.
 2020-10-22
 * NINA-Bx06 - changed antenna keep-out to multi-layer polygon cutout
 * NORA-B10x - corrected solder mask void, added pin 1 markers on silk screen
+
 
