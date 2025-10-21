@@ -37,6 +37,9 @@ The following symbols/footprints are available in the library:
 # New updates
 NORA-W401/W406 footprint and symbol added.
 # Revision history
+2025-10-21 - lber
+* RUBY-W1 - added
+
 2025-04-24 - lkis
 * NORA-W40x - added
 
@@ -133,3 +136,4 @@ NORA-W401/W406 footprint and symbol added.
 2020-10-22
 * NINA-Bx06 - changed antenna keep-out to multi-layer polygon cutout
 * NORA-B10x - corrected solder mask void, added pin 1 markers on silk screen
+
