@@ -28,7 +28,7 @@ The following symbols/footprints are available in the library:
 * POS:   CAM-M8, EVA-M8, LEA-M8, MAX-M8, NEO-M8, PAM, SAM-M8, ZOE-M8G, ZED-F9P
 * CEL:   LEXI-R422, LEXI-R520, LEXI-R10x01D, SARA-R41x, SARA-R42x, SARA-R5,
       	 SARA-R52, SARA-G450, SARA-U2, LARA-R6, LENA-R8, TOBY, LEON, LISA
-* SHO:   ANNA-B1, ANNA-B4, BMD-3, ELLA-W1, EMMY-W1, IRIS-W1, JODY-W1, JODY-W2,
+* SHO:   ANNA-B1, ANNA-B4, BMD-3, ELLA-W1, EMMY-W1, IRIS-W1, JODY-B1, JODY-W1, JODY-W2,
  	       JODY-W3, JODY-W5, LILY-W1, MAYA-W1, MAYA-W2, MAYA-W4, NINA-B1, NINA-B2, NINA-B3,
 		 NINA-B4, NINA-B5, NINA-W1, NORA-B1, NORA-B2, NORA-W1, NORA-W2, NORA-W3,
 		 NORA-W4, ODIN-W16, ODIN-W26, R41Z, RUBY-W1, THEO-P173-01A
@@ -37,6 +37,9 @@ The following symbols/footprints are available in the library:
 # New updates
 RUBY-W1 footprint and symbol added.
 # Revision history
+2025-11-10 - lber
+* JODY-B1 added
+
 2025-10-21 - lber
 * RUBY-W1 - added
 
@@ -136,5 +139,6 @@ RUBY-W1 footprint and symbol added.
 2020-10-22
 * NINA-Bx06 - changed antenna keep-out to multi-layer polygon cutout
 * NORA-B10x - corrected solder mask void, added pin 1 markers on silk screen
+
 
 
