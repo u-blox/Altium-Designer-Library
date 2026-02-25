@@ -25,7 +25,8 @@ Contribution provided to us for any purpose without fee.
 This library contains the symbols and footprints for Altium Designer.
 The following symbols/footprints are available in the library:
 
-* POS:   CAM-M8, EVA-M8, LEA-M8, MAX-M8, NEO-M8, PAM, SAM-M8, ZOE-M8G, ZED-F9P
+* POS:   CAM-M8, EVA-M8, LEA-M8, MAX-M8, NEO-M8, PAM, SAM-M8, ZOE-M8G, ZED-F9P<br>
+  **The latest Altium Integrated Library for Positioning products is available [here](https://github.com/u-blox/Positioning-Altium-Designer-Library)!**  
 * CEL:   LEXI-R422, LEXI-R520, LEXI-R10x01D, SARA-R41x, SARA-R42x, SARA-R5,
       	 SARA-R52, SARA-G450, SARA-U2, LARA-R6, LENA-R8, TOBY, LEON, LISA
 * SHO:   ANNA-B1, ANNA-B4, BMD-3, ELLA-W1, EMMY-W1, IRIS-W1, JODY-B1, JODY-W1, JODY-W2,
@@ -139,6 +140,7 @@ RUBY-W1 footprint and symbol added.
 2020-10-22
 * NINA-Bx06 - changed antenna keep-out to multi-layer polygon cutout
 * NORA-B10x - corrected solder mask void, added pin 1 markers on silk screen
+
 
 
 
