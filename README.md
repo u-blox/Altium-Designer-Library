@@ -38,6 +38,9 @@ The following symbols/footprints are available in the library:
 # New updates
 RUBY-W1 footprint and symbol added.
 # Revision history
+2026-04-16 - lber
+* MAYA-W3 added
+
 2025-11-10 - lber
 * JODY-B1 added
 
