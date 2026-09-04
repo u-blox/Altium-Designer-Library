@@ -25,19 +25,21 @@ Contribution provided to us for any purpose without fee.
 This library contains the symbols and footprints for Altium Designer.
 The following symbols/footprints are available in the library:
 
-* POS:   CAM-M8, EVA-M8, LEA-M8, MAX-M8, NEO-M8, PAM, SAM-M8, ZOE-M8G, ZED-F9P<br>
-  **The latest Altium Integrated Library for Positioning products is available [here](https://github.com/u-blox/Positioning-Altium-Designer-Library)!**  
-* CEL:   LEXI-R422, LEXI-R520, LEXI-R10x01D, SARA-R41x, SARA-R42x, SARA-R5,
-      	 SARA-R52, SARA-G450, SARA-U2, LARA-R6, LENA-R8, TOBY, LEON, LISA
 * SHO:   ANNA-B1, ANNA-B4, ANNA-B5, BMD-3, ELLA-W1, EMMY-W1, IRIS-W1, JODY-B1, JODY-W1, JODY-W2,
  	       JODY-W3, JODY-W5, LILY-W1, MAYA-W1, MAYA-W2, MAYA-W3, MAYA-W4, NINA-B1, NINA-B2, NINA-B3,
 		 NINA-B4, NINA-B5, NINA-W1, NORA-B1, NORA-B2, NORA-W1, NORA-W2, NORA-W3,
 		 NORA-W4, ODIN-W16, ODIN-W26, R41Z, RUBY-W1, THEO-P173-01A
-* other: u-blox Logo
+* POS:   
+**The latest Altium Integrated Library for Positioning products is available [here](https://github.com/u-blox/Positioning-Altium-Designer-Library)!**  
+
 
 # New updates
 RUBY-W1 footprint and symbol added.
 # Revision history
+2026-09-04
+* JODY-W6 added
+* Deleted POS and CEL modules
+
 2026-08-11 - lber
 * ANNA-B5 added
 
